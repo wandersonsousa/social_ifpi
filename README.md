@@ -16,3 +16,9 @@
 - Engenharia de Software: Clean Code e Test Driven Development*
 - Programação para Internet II: Node JS, React, NextJS,Firebase
 - Redes de Computadores: Conhecimentos sobre protocolos TCP e IP
+
+# Funcionalidades
+- Comunicação através de chat.
+- Filtragem por cursos e grau de formação.
+- Sistema de amizades.
+- Cadastro/Login de usuário.
