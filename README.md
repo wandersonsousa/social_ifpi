@@ -18,7 +18,10 @@
 - Redes de Computadores: Conhecimentos sobre protocolos TCP e IP
 
 # Funcionalidades
-- Comunicação através de chat.
+- Comunicação entre usuários do sistema através de chat privado.
 - Filtragem por cursos e grau de formação.
-- Sistema de amizades.
+- Sistema de following.
 - Cadastro/Login de usuário.
+- Feed de publicações.
+- Formação de grupos de cada disciplina de uma turma, destinado para publicação de links e conteúdos.
+- Função de pesquisa por outro usuário do sistema.
