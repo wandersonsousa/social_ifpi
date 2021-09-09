@@ -20,7 +20,7 @@
 # Funcionalidades
 - Comunicação entre usuários do sistema através de chat privado.
 - Filtragem por cursos e grau de formação.
-- Sistema de following.
+- Sistema de following/conexão.
 - Cadastro/Login de usuário.
 - Feed de publicações.
 - Formação de grupos de cada disciplina de uma turma, destinado para publicação de links e conteúdos.
