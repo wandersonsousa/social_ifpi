@@ -26,5 +26,5 @@
 - Formação de grupos de cada disciplina de uma turma, destinado para publicação de links e conteúdos.
 - Função de pesquisa por outro usuário do sistema.
 
-#Figma
+# Figma
 - https://www.figma.com/file/h4ZxNwTdN2XccimZygHPxB/SOCIAL_IFPI
