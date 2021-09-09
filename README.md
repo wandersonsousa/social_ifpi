@@ -29,7 +29,7 @@
 # Regras de negócio
 - Apenas estudantes do IFPI podem se cadastrar, exclusivamente com email institucional.
 - É preciso estar conectado a outro usuário para que se possa trocar mensagens com o mesmo.
-- As turmas incluídas no sistema devem estar devidamente registradas na instiruição IFPI.
+- As turmas incluídas no sistema devem estar devidamente registradas na instituição IFPI.
 
 # Figma
 - https://www.figma.com/file/h4ZxNwTdN2XccimZygHPxB/SOCIAL_IFPI
