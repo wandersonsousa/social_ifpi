@@ -35,13 +35,4 @@
 - https://www.figma.com/file/h4ZxNwTdN2XccimZygHPxB/SOCIAL_IFPI
 
 ## Sprints
-
-<p>18/10</p>
-
-- Definição do modelo de banco de dados;
-- As funcionalidades do feed/home;
-- Acesso à turma.
-
-<p>29/11</p>
-
-- As demais funcionalidades.
+- https://trello.com/b/iRmck7IC/socialifpi
