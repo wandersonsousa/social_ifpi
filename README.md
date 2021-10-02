@@ -35,4 +35,5 @@
 - https://www.figma.com/file/h4ZxNwTdN2XccimZygHPxB/SOCIAL_IFPI
 
 ## Sprints
-- https://trello.com/b/iRmck7IC/socialifpi
+- [Trello](https://trello.com/b/iRmck7IC/socialifpi
+){:target="_blank"}
