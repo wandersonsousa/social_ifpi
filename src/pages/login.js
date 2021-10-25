@@ -69,10 +69,10 @@ export default function SignInSide() {
                                 id="password"
                                 autoComplete="current-password"
                             />
-                            <FormControlLabel
+                          {/*   <FormControlLabel
                                 control={<Checkbox value="remember" color="primary" />}
                                 label="Lembre de mim"
-                            />
+                            /> */}
                             <Button
                                 type="submit"
                                 fullWidth
@@ -82,11 +82,11 @@ export default function SignInSide() {
                                 Login
                             </Button>
                             <Grid container>
-                                <Grid item xs>
+                         {/*        <Grid item xs>
                                     <Link href="#" variant="body2">
                                         Esqueceu sua senha?
                                     </Link>
-                                </Grid>
+                                </Grid> */}
                                 <Grid item>
                                     <Link href="#" variant="body2">
                                         {"Não tem uma conta? Cadastre-se"}

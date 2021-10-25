@@ -1,4 +1,4 @@
-import { USER_UPDATE, USER_RESET } from "../";
+import { USER_UPDATE, USER_RESET } from "..";
 
 export const userUpdate = (user) => ({
   type: USER_UPDATE,
