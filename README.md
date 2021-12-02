@@ -37,3 +37,5 @@
 ## Sprints
 - https://trello.com/b/iRmck7IC/socialifpi
 
+## Vídeo
+- https://youtu.be/iYOw0gKIVXQ
